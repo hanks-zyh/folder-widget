@@ -19,5 +19,8 @@ Folder Widget is a simple launcher widget which allow user create folder to put 
 ⭐ support hide folder name  
 
 <a href="https://play.google.com/store/apps/details?id=org.totschnig.myexpenses" target="_blank">
-<img src="https://play-lh.googleusercontent.com/WSzld6zl_FT11V8dMeCxhKUo8hBLvr9LxOl49oQ5YCYdii0_grSTdUYOuqEtSadXik-3=w5120-h2880-rw" alt="Get it on Google Play" height="300"/></a>
+<img src="https://play-lh.googleusercontent.com/WSzld6zl_FT11V8dMeCxhKUo8hBLvr9LxOl49oQ5YCYdii0_grSTdUYOuqEtSadXik-3=w5120-h2880-rw" alt="Get it on Google Play" height="300"/>
+<img src="https://play-lh.googleusercontent.com/-oKetCXPY7GJQJ_Oz9mhY890z8-xQbnE_Bu1ZWCjooKYYn1YjqIODld3rf-MVdGbJg=w5120-h2880-rw" alt="Get it on Google Play" height="300"/>
+ <img src="https://play-lh.googleusercontent.com/phNoP_z7oe4CoZkNEQyD5BLyQCW65QxHSiqhm8C8d9ftCm6jyBrHSN3XuIyiyeHIjg=w5120-h2880-rw" alt="Get it on Google Play" height="300"/>
+</a>
 
