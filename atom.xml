@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hanks.pub/folder-widget</id>
+    <title>Folder Widget</title>
+    <updated>2022-07-02T07:34:38.674Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hanks.pub/folder-widget"/>
+    <link rel="self" href="https://hanks.pub/folder-widget/atom.xml"/>
+    <subtitle>Folder Widget site</subtitle>
+    <logo>https://hanks.pub/folder-widget/images/avatar.png</logo>
+    <icon>https://hanks.pub/folder-widget/favicon.ico</icon>
+    <rights>All rights reserved 2022, Folder Widget</rights>
+    <entry>
+        <title type="html"><![CDATA[Add Widget to launcher]]></title>
+        <id>https://hanks.pub/folder-widget/post/add-widget-to-launcher/</id>
+        <link href="https://hanks.pub/folder-widget/post/add-widget-to-launcher/">
+        </link>
+        <updated>2022-06-30T05:13:10.000Z</updated>
+        <content type="html"><![CDATA[<p>1️⃣In <strong>Android 5, Android 6, Android 7</strong> system, <code>Long press</code> or <code>pinch with two fingers</code> on the empty space of your launcher.</p>
+<p>Above <strong>Android 8+</strong>, <code>long press</code> the Folder Widget app icon, find <code>New widget</code> shortcut then click it.<br>
+OR<br>
+Open the <code>Folder Widget </code>app, tap the <code>New widget</code> button, then go to your phone homescreen.</p>
+<p>2️⃣​ Find the widget added just now, and tap the name of widget text to config it.</p>
+<p>see more 👉 <a href="/folder-widget/post/how-to-use/">How to use</a></p>
+<h3 id="faq">FAQ</h3>
+<h4 id="q-why-cant-i-find-the-widget">Q: why cant I find the widget?</h4>
+<p>A:   Maybe your launcher not support widget feature, please try other nice launcher apps (such as Nova Launcher, Smart launcher)</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to open notification dot]]></title>
+        <id>https://hanks.pub/folder-widget/post/how-to-open-notification-dot/</id>
+        <link href="https://hanks.pub/folder-widget/post/how-to-open-notification-dot/">
+        </link>
+        <updated>2022-06-30T04:53:23.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="find-the-option">Find the option</h3>
+<ol>
+<li>open <code>Folder Widget</code> app</li>
+<li>click <code>Settings</code></li>
+<li>find <code>Notfication</code> settings, and open then checkbox.</li>
+<li>Find <code>Folder Widget</code> app and allow the permission in new system page.</li>
+</ol>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="find-the-option">Find the option</h3>
+<ol>
+<li>open <code>Folder Widget</code> app</li>
+<li>click <code>Settings</code></li>
+<li>find <code>Notfication</code> settings, and open then checkbox.</li>
+<li>Find <code>Folder Widget</code> app and allow the permission in new system page.</li>
+</ol>
+<!-- more -->
+<p>OR</p>
+<p>watch video <a href="https://www.youtube.com/shorts/-nR6blj8rDA">https://www.youtube.com/shorts/-nR6blj8rDA</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use]]></title>
+        <id>https://hanks.pub/folder-widget/post/how-to-use/</id>
+        <link href="https://hanks.pub/folder-widget/post/how-to-use/">
+        </link>
+        <updated>2022-05-30T14:31:44.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="quick-start">Quick start</h3>
+<p>1️⃣ Add widget to your launcher screen.<br>
+2️⃣ Tap the name of the widget to config apps for quick launch.</p>
+<p>OR <a href="https://youtu.be/kKj--vRGqx0" title="Folder Widget tutorial">▶️ Video tutorial </a><br>
+OR 👉 <a href="https://twitter.com/folderwidget">Twitter</a></p>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="quick-start">Quick start</h3>
+<p>1️⃣ Add widget to your launcher screen.<br>
+2️⃣ Tap the name of the widget to config apps for quick launch.</p>
+<p>OR <a href="https://youtu.be/kKj--vRGqx0" title="Folder Widget tutorial">▶️ Video tutorial </a><br>
+OR 👉 <a href="https://twitter.com/folderwidget">Twitter</a></p>
+<!-- more -->
+<h3 id="add-widget">Add widget</h3>
+<p>To use <code>Folder Widget</code>, you need <strong>add the widget</strong> of app on your launcher.(if launcher is not support widget, please change other launcher app).</p>
+<figure class="third">
+    <img src="/folder-widget/post-images/new_widget.gif" height="300">
+    <img src="/folder-widget/post-images/new_widget_2.gif" height="300">
+    <img src="/folder-widget/post-images/new_widget_3.gif" height="300">
+</figure>
+<p><a href="/folder-widget/post/add-widget-to-launcher">Add Widget to launcher</a></p>
+<h3 id="configuration">Configuration</h3>
+<p>Tap <code>name</code> of the widget to launch the configuration page.</p>
+<figure class="third">
+    <img src="/folder-widget/post-images/config_widget.gif" height="300">
+    <img src="/folder-widget/post-images/config_widget_2.gif" height="300">
+    <img src="/folder-widget/post-images/config_widget_3.gif" height="300">
+</figure>
+<figure class="half">
+    <img src="/folder-widget/post-images/config_widget_4.gif" height="300">
+    <img src="/folder-widget/post-images/config_widget_5.gif" height="300">
+</figure>
+<h3 id="notification">Notification</h3>
+<p>see 👉 <a href="/folder-widget/post/how-to-open-notification-dot/">How to open notification</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Folder Widget]]></title>
+        <id>https://hanks.pub/folder-widget/post/folder-widget/</id>
+        <link href="https://hanks.pub/folder-widget/post/folder-widget/">
+        </link>
+        <updated>2022-05-30T14:06:54.000Z</updated>
+        <summary type="html"><![CDATA[<p>Folder Widget is a simple launcher widget which allow user create folder to put apps for quick launch.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Folder Widget is a simple launcher widget which allow user create folder to put apps for quick launch.</p>
+<!-- more -->
+<a href="https://play.google.com/store/apps/details?id=pub.hanks.appfolderwidget&utm_source=hankspub" target="_blank">
+<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="70"/></a>
+<h3 id="features">Features</h3>
+<p>⭐ custom widget size, backgroud color, radius, margins, paddings.<br>
+⭐ custom folder name, text color, text size, text paddings.<br>
+⭐ quick open system apps, quick search app for shortcuts.<br>
+⭐ adaptive icon shape.<br>
+⭐ support icon pack and mask.<br>
+⭐ folder name shadow option.<br>
+⭐ widget has 2x2 3x3 3+4 1x5 1x4 2x3 3x2 2x4 4x2 size.<br>
+⭐ new ui for configuration.<br>
+⭐ support hide folder name</p>
+<a href="https://play.google.com/store/apps/details?id=org.totschnig.myexpenses" target="_blank">
+<img src="https://play-lh.googleusercontent.com/WSzld6zl_FT11V8dMeCxhKUo8hBLvr9LxOl49oQ5YCYdii0_grSTdUYOuqEtSadXik-3=w5120-h2880-rw" alt="Get it on Google Play" height="300"/>
+<img src="https://play-lh.googleusercontent.com/-oKetCXPY7GJQJ_Oz9mhY890z8-xQbnE_Bu1ZWCjooKYYn1YjqIODld3rf-MVdGbJg=w5120-h2880-rw" alt="Get it on Google Play" height="300"/>
+ <img src="https://play-lh.googleusercontent.com/phNoP_z7oe4CoZkNEQyD5BLyQCW65QxHSiqhm8C8d9ftCm6jyBrHSN3XuIyiyeHIjg=w5120-h2880-rw" alt="Get it on Google Play" height="300"/>
+</a>
+]]></content>
+    </entry>
+</feed>
